@@ -12,7 +12,7 @@
 | JSONBenchmark.jacksonRawDeserialize     | avgt | 65.145 | us/op |
 | JSONBenchmark.jsoniterObjectDeserialize | avgt | 31.086 | us/op |
 | JSONBenchmark.jsoniterObjectSerialize   | avgt | 17.075 | us/op |
-| JSONBenchmark.jsoniterRawDerialize      | avgt | 15.433 | us/op |
+| JSONBenchmark.jsoniterRawDeserialize      | avgt | 15.433 | us/op |
 
 This is a stupid simple test against a list of Users:
 

@@ -110,7 +110,7 @@ public class JSONBenchmark
 	@Benchmark  
 	public int jsoniterRawDerialize()
 	{
-		return jsoniter.rawDerializeTest();
+		return jsoniter.rawDeserializeTest();
 	}
 	
 	

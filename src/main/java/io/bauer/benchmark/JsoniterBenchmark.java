@@ -64,7 +64,7 @@ public class JsoniterBenchmark extends Benchmark
 
 	}
 
-	public int rawDerializeTest()
+	public int rawDeserializeTest()
 	{
 		JsonIterator.deserialize(jsonData);
 		
